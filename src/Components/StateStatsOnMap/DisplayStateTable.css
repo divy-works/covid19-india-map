@@ -1,0 +1,20 @@
+td {
+    border-radius: 0.5vh;
+    padding: 0.5vh;
+    font-size: 1vh;
+    background-color: rgb(245,245,245);
+    text-align: left;
+    border: 1px solid grey;
+}
+th {
+    border-radius: 0.5vh;
+    padding: 0.5vh;
+    font-size: 1vh;
+    background-color: rgb(245,245,245);
+    text-align: center;
+    border: 1px solid grey;
+}
+table {
+    float: right;
+    z-index: -1;
+}
